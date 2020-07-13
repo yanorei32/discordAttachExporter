@@ -219,8 +219,6 @@ func main() {
 			item.Url = attachment.Url
 
 			items = append(items, item)
-			items = append(items, item)
-			items = append(items, item)
 		}
 	}
 
