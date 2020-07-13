@@ -159,6 +159,7 @@ func download(filepath string, url string) error {
 }
 
 func main() {
+	logrus.SetFormatter(&logrus.TextFormatter{ForceColors: true})
 	logrus.SetOutput(colorable.NewColorableStdout())
 
 	flag.Parse()
