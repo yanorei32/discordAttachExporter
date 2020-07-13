@@ -1,0 +1,13 @@
+parallelDownload: 2
+downloadExtension:
+  # - png
+  - jpg
+  - jpeg
+  - bmp
+  - webp
+  - gif
+  - tiff
+  - psd
+  - ai
+  - svg
+
