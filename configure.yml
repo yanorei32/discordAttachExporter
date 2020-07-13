@@ -1,6 +1,6 @@
-parallelDownload: 2
+parallelDownload: 6
 downloadExtension:
-  # - png
+  - png
   - jpg
   - jpeg
   - bmp
