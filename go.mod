@@ -3,7 +3,7 @@ module github.com/yanorei32/discordAttachExporter
 go 1.13
 
 require (
-	github.com/go-playground/validator/v10 v10.10.1
+	github.com/go-playground/validator/v10 v10.11.0
 	github.com/leekchan/timeutil v0.0.0-20150802142658-28917288c48d
 	github.com/mattn/go-colorable v0.1.12
 	github.com/sirupsen/logrus v1.8.1
