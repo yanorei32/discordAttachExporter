@@ -1,3 +1,8 @@
+# !!DEPRECATED!!
+[Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) has a Download media option now! Try use it!
+
+![image](https://github.com/yanorei32/discordAttachExporter/assets/11992915/35c64ed8-dd81-4051-9813-0219701d25cd)
+
 # discordAttachExporter
 Download attach files from [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) JSON
 
